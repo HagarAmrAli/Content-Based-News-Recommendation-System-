@@ -1,0 +1,2 @@
+user_id,article_id,title,similarity_score,rank
+user_4,3,Article 3,1.0,1
